@@ -1,16 +1,27 @@
-### Hi there 👋
+# Kevin Wang
 
-<!--
-**kevin931/kevin931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> He/His/Him.
+> Currently working on school, surviving 2020, and most likely watching YouTube
 
-Here are some ideas to get you started:
+<img src=https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I like:
+- 📚📔Poetry (give [this](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california) a try)
+- 💻🖱Digital humanities
+- 📊📉Statistics, machine learning, and data science
+- 😍Monchhichis, 🏞 Nature, 📱Cool tech
+
+### Current projects:
+#### [PoetryPredictor](https://github.com/kevin931/PoetryPredictor)
+- Find out how poetic YOU are!
+- I'm working on this (as time allows, that is.) I promise! pip (*Moby-Dick* anyone?) on the way.
+
+### Other Projects:
+#### [MeterOMeter](https://github.com/kevin931/MeterOMeter)
+- Not sure whether I'll work on this any time soon or ever.
+- If interested, motivate me to update. Pls!
+
+### Follow me:
+- Instagram: [kevinwang_peace](https://www.instagram.com/kevinwang_peace/)
+- Twitter: [kevinwang_peace](https://twitter.com/kevinwang_peace)
+- Github: [kevin931](https://github.com/kevin931)
