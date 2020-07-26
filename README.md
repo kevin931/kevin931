@@ -6,7 +6,7 @@
 <img src=https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif />
 
 ### What I like:
-- 📚📔Poetry (give [this](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california) a try)
+- 📚📔Poetry and fiction (give [this](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california) a try)
 - 💻🖱Digital humanities
 - 📊📉Statistics, machine learning, and data science
 - 😍Monchhichis, 🏞 Nature, 📱Cool tech
