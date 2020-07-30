@@ -12,7 +12,7 @@
 - 😍Monchhichis, 🏞 Nature, 📱Cool tech
 
 ### Current projects:
-#### [PoetryPredictor](https://github.com/kevin931/PoetryPredictor)
+#### [Poetic](https://github.com/kevin931/poetic)
 - Find out how poetic YOU are!
 - I'm working on this (as time allows, that is.) I promise! pip (*Moby-Dick* anyone?) on the way.
 
