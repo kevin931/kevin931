@@ -14,7 +14,8 @@
 ### Current projects:
 #### [Poetic](https://github.com/kevin931/poetic)
 - Find out how poetic YOU are!
-- I'm working on this (as time allows, that is.) I promise! pip (*Moby-Dick* anyone?) on the way.
+- I'm working on this (as time allows, that is.) I promise!
+- I have also released the first beta version of the package which is now fully functional! Check it out!
 
 ### Other Projects:
 #### [MeterOMeter](https://github.com/kevin931/MeterOMeter)
