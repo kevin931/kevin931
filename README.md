@@ -1,7 +1,10 @@
 # Kevin Wang
 
-> He/His/Him.
-> Currently working on school, surviving 2020, and most likely watching YouTube
+> He/Him/His.
+> Currently working on school, writing quirky software, and most likely watching YouTube :)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 
 <img src=https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif />
 
@@ -15,14 +18,22 @@
 #### [Poetic](https://github.com/kevin931/poetic)
 - Find out how poetic YOU are!
 - I'm working on this (as time allows, that is.) I promise!
-- I have also released the first beta version of the package which is now fully functional! Check it out!
+- Stable releases are now out! Check it out!
 
 ### Other Projects:
 #### [MeterOMeter](https://github.com/kevin931/MeterOMeter)
-- Not sure whether I'll work on this any time soon or ever.
+- Not sure whether I'll work on this any time soon.
 - If interested, motivate me to update. Pls!
+
+### Goals and motivations:
+- Stay healthy!
+- Contribute to open source!
+- Grad school/work!
 
 ### Follow me:
 - Instagram: [kevinwang_peace](https://www.instagram.com/kevinwang_peace/)
 - Twitter: [kevinwang_peace](https://twitter.com/kevinwang_peace)
 - Github: [kevin931](https://github.com/kevin931)
+
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevin931&theme=bear)](https://github.com/kevin931/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin931&theme=bear)](https://github.com/kevin931/github-readme-stats)
