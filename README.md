@@ -15,6 +15,17 @@
 - 😍Monchhichis, 🏞 Nature, 📱Cool tech
 
 ### Current projects:
+
+### [CytofDR](https://github.com/kevin931/CytofDR)
+- CyTOF dimension reduction (DR) framework
+- Run and evaluate DR all in one place
+- For CyTOF and beyond with customizability and extensibility
+
+### [PyCytoData](https://github.com/kevin931/PyCytoData)
+- An elegant data analysis tool for CyTOF
+- A mega package for CyTOF workflows, including CytofDR and cytomulate
+- Introducting PyCytoData Alliance and PyCytoData Alliance Plus
+
 #### [Poetic](https://github.com/kevin931/poetic)
 - Find out how poetic YOU are!
 - I'm working on this (as time allows, that is.) I promise!
@@ -28,7 +39,7 @@
 ### Goals and motivations:
 - Stay healthy!
 - Contribute to open source!
-- Grad school/work!
+- Grad school!
 
 ### Follow me:
 - Instagram: [kevinwang_peace](https://www.instagram.com/kevinwang_peace/)
