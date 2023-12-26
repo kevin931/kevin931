@@ -9,37 +9,39 @@
 <img src=https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif />
 
 ## What I like:
-- 📚📔Poetry and fiction (give [this](https://www.poetryfoundation.org/poems/47660/a-supermarket-in-california) a try)
-- 💻🖱Digital humanities
 - 📊📉Statistics, machine learning, and data science
-- 😍Monchhichis, 🏞 Nature, 📱Cool tech
+- 💻🖱Digital humanities
+- 📚📔Poetry and fiction
+- 😍Monchhichis, 🏞 Nature, 🥈Fitness, 🎧Audio
 
-## Current projects:
+## Projects and Publications:
 
 ### [CytofDR](https://github.com/kevin931/CytofDR)
-- CyTOF dimension reduction (DR) framework
+- [Wang et al. (2023) in *Nature Communications*](https://doi.org/10.1038/s41467-023-37478-w)
+- A generalizable dimension reduction (DR) framework
 - Run and evaluate DR all in one place
 - For CyTOF and beyond with customizability and extensibility
 
 ### [PyCytoData](https://github.com/kevin931/PyCytoData)
+- [Yang et al. (2023) in *Genome Biology*](https://doi.org/10.1186/s13059-023-03099-1)
 - An elegant data analysis tool for CyTOF
 - A mega package for CyTOF workflows, including CytofDR and cytomulate
 - Introducting PyCytoData Alliance and PyCytoData Alliance Plus
 
+### [Cytomulate](https://github.com/kevin931/Cytomulate)
+- [Yang et al. (2023) in *Genome Biology*](https://doi.org/10.1186/s13059-023-03099-1)
+- An accurate and efficient simulation tool for CyTOF
+- My contributions: The maintenance guy who fixes stuff, mops up bits and pieces of code, and writes documentations.
+
 ### [Poetic](https://github.com/kevin931/poetic)
-- Find out how poetic YOU are!
+- Find out how poetic YOU are via a statistical model!
 - I'm working on this (as time allows, that is.) I promise!
 - Stable releases are now out! Check it out!
 
-## Other Projects:
-### [MeterOMeter](https://github.com/kevin931/MeterOMeter)
-- Not sure whether I'll work on this any time soon.
-- If interested, motivate me to update. Pls!
-
 ## Goals and motivations:
-- Stay healthy!
+- Stay healthy and fit!
+- Research principles: Adaptability, Interpretability, and Usability!
 - Contribute to open source!
-- Grad school!
 
 ## Follow me:
 - Instagram: [kevinwang_peace](https://www.instagram.com/kevinwang_peace/)
