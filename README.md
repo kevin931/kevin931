@@ -47,6 +47,3 @@
 - Instagram: [kevinwang_peace](https://www.instagram.com/kevinwang_peace/)
 - Twitter: [kevinwang_peace](https://twitter.com/kevinwang_peace)
 - Github: [kevin931](https://github.com/kevin931)
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevin931&show_icons=true&theme=radical)
-[![Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin931&layout=compact)
